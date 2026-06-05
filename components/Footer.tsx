@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row text-center sm:text-left">
           {/* 저작권 표시 */}
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            © {new Date().getFullYear()} Tech.Log. Built with Next.js, MDX, and Tailwind CSS.
+            © {new Date().getFullYear()} 데키.Log. Built with Next.js, MDX, and Tailwind CSS.
           </p>
 
           {/* 링크 영역 */}

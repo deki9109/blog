@@ -6,8 +6,8 @@ import '@/app/globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Tech.Log - 개인 기술 블로그',
-    template: '%s | Tech.Log',
+    default: '데키.Log - 개인 기술 블로그',
+    template: '%s | 데키.Log',
   },
   description: '개발, 웹 프로그래밍, SEO 및 구글 애드센스 등 유용한 기술 정보를 다루는 개인 테크 블로그입니다.',
   keywords: ['Next.js', 'React', 'Tailwind CSS', 'SEO', '구글 애드센스', '기술 블로그'],
@@ -17,13 +17,13 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'ko_KR',
     url: 'https://your-domain.com',
-    title: 'Tech.Log - 개인 기술 블로그',
+    title: '데키.Log - 개인 기술 블로그',
     description: '웹 프론트엔드 개발 및 최신 기술 이슈를 정리하는 블로그입니다.',
-    siteName: 'Tech.Log',
+    siteName: '데키.Log',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tech.Log - 개인 기술 블로그',
+    title: '데키.Log - 개인 기술 블로그',
     description: '웹 프론트엔드 개발 및 최신 기술 이슈를 정리하는 블로그입니다.',
   },
   // 브라우저 뷰포트 및 아이콘 관련 설정

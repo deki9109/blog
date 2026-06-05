@@ -13,10 +13,10 @@ export default function Header() {
         {/* 로고 영역 */}
         <Link href="/" className="flex items-center gap-2 group">
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-indigo-600 text-white font-bold transition-transform group-hover:scale-105">
-            T
+            D
           </div>
           <span className="font-sans text-xl font-bold tracking-tight text-slate-900 dark:text-slate-50 transition-colors">
-            Tech<span className="text-indigo-600 dark:text-indigo-400">.</span>Log
+            데키<span className="text-indigo-600 dark:text-indigo-400">.</span>Log
           </span>
         </Link>
 
