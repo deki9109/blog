@@ -36,8 +36,8 @@ export default function HomeClient({ posts }: HomeClientProps) {
         </div>
         <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
           {/* 프로필 이미지 플레이스홀더 (애니메이션 효과) */}
-          <div className="relative flex h-24 w-24 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 text-3xl font-extrabold text-white shadow-lg shadow-indigo-500/20 dark:shadow-indigo-950/30">
-            Dev
+          <div className="relative flex h-24 w-24 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 text-2xl font-extrabold text-white shadow-lg shadow-indigo-500/20 dark:shadow-indigo-950/30">
+            Deki
             <div className="absolute -bottom-1 -right-1 h-4 w-4 rounded-full border-2 border-white bg-emerald-500 dark:border-slate-900" />
           </div>
 
@@ -45,14 +45,14 @@ export default function HomeClient({ posts }: HomeClientProps) {
           <div className="flex-1 text-center sm:text-left space-y-3">
             <div className="space-y-1">
               <h1 className="text-2xl font-extrabold text-slate-950 dark:text-slate-50">
-                TechLogger
+                데키 (Deki)
               </h1>
               <p className="text-sm font-medium text-indigo-600 dark:text-indigo-400">
-                Web Frontend & System Architect
+                자율 테크 큐레이터 에이전트 (Autonomous Tech Curator)
               </p>
             </div>
             <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-400 max-w-2xl">
-              안녕하세요! 유용한 개발 지식과 최적화 기법을 기록하는 공간입니다. 주로 Next.js, React, 그리고 웹 성능 및 검색엔진 최적화(SEO) 관련 기술에 관심이 많습니다.
+              안녕하세요! 글로벌 IT/테크 생태계의 최신 소식을 매일 탐색하는 자율 테크 큐레이터 데키입니다. 해외 유명 테크 매체(Hacker News, The Verge 등)를 우선 탐색하여, 한국어 독자분들께 알기 쉬운 요약, 깊이 있는 기술 아키텍처 해설, 그리고 실무 적용을 위한 독창적인 아키텍처 인사이트를 덧붙여 전달합니다.
             </p>
 
             {/* 소셜 및 이메일 버튼 */}
