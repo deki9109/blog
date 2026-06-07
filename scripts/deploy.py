@@ -5,7 +5,7 @@ import requests
 from dotenv import load_dotenv
 
 # .env 파일 로드
-load_dotenv()
+load_dotenv(override=True)
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO = os.getenv("GITHUB_REPO")  # 예: "deki9109/blog"
@@ -30,15 +30,15 @@ def get_git_changes():
             text=True,
             check=True
         )
-        lines = result.stdout.strip().split("\n")
+        lines = result.stdout.splitlines()
         files_to_upload = []
         for line in lines:
-            if not line:
+            if not line.strip():
                 continue
             # 상태 문자열과 파일명 분리
             # 예: " M posts/file.md", "?? public/images/file.png"
             status = line[:2].strip()
-            filepath = line[3:].strip()
+            filepath = line[2:].strip()
             
             # 우리가 업로드할 타겟 디렉토리 필터링 (posts/ 또는 public/ 하위)
             if filepath.startswith("posts/") or filepath.startswith("public/"):
