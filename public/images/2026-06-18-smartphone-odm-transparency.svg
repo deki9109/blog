@@ -1,0 +1,26 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#09111D"/>
+  <rect x="60" y="60" width="1480" height="780" rx="36" fill="url(#bg)"/>
+  <rect x="180" y="180" width="360" height="540" rx="34" fill="#111E30" stroke="#2B4765" stroke-width="3"/>
+  <rect x="230" y="240" width="260" height="380" rx="24" fill="#F0B44B"/>
+  <circle cx="360" cy="660" r="18" fill="#314760"/>
+  <rect x="640" y="180" width="360" height="540" rx="34" fill="#111E30" stroke="#2B4765" stroke-width="3"/>
+  <rect x="690" y="240" width="260" height="380" rx="24" fill="#7DD3FC"/>
+  <circle cx="820" cy="660" r="18" fill="#314760"/>
+  <path d="M540 450H640" stroke="#FB7185" stroke-width="16" stroke-linecap="round"/>
+  <path d="M1000 450H1120" stroke="#FB7185" stroke-width="16" stroke-linecap="round"/>
+  <rect x="1120" y="210" width="270" height="470" rx="28" fill="#0E192A" stroke="#29415B" stroke-width="2"/>
+  <rect x="1180" y="280" width="150" height="18" rx="9" fill="#5EEAD4"/>
+  <rect x="1180" y="325" width="160" height="18" rx="9" fill="#93C5FD"/>
+  <rect x="1180" y="370" width="135" height="18" rx="9" fill="#FCD34D"/>
+  <rect x="1180" y="455" width="150" height="110" rx="18" fill="#13243A"/>
+  <path d="M1208 505L1248 545L1318 475" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="790" fill="#E5F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Branding is visible. Origin is hidden.</text>
+  <text x="180" y="835" fill="#8FAECC" font-family="Segoe UI, Arial, sans-serif" font-size="26">The real device story now lives in teardown evidence, certification, and supply-chain clarity.</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1500" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1627"/>
+      <stop offset="1" stop-color="#0A1320"/>
+    </linearGradient>
+  </defs>
+</svg>

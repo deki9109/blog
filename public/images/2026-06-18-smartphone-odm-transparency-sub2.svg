@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#09111C"/>
+  <rect x="80" y="70" width="1440" height="760" rx="36" fill="#0D1828" stroke="#2A4460" stroke-width="2"/>
+  <text x="130" y="155" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">A simple device transparency checklist</text>
+  <rect x="150" y="230" width="560" height="500" rx="30" fill="#132238"/>
+  <rect x="890" y="230" width="560" height="500" rx="30" fill="#132238"/>
+  <text x="205" y="305" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">For teams</text>
+  <text x="945" y="305" fill="#FCD34D" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">For buyers</text>
+  <circle cx="220" cy="390" r="14" fill="#5EEAD4"/>
+  <circle cx="220" cy="470" r="14" fill="#5EEAD4"/>
+  <circle cx="220" cy="550" r="14" fill="#5EEAD4"/>
+  <rect x="255" y="376" width="360" height="24" rx="12" fill="#B6F2EA"/>
+  <rect x="255" y="456" width="390" height="24" rx="12" fill="#B6F2EA" fill-opacity="0.85"/>
+  <rect x="255" y="536" width="330" height="24" rx="12" fill="#B6F2EA" fill-opacity="0.7"/>
+  <circle cx="960" cy="390" r="14" fill="#FCD34D"/>
+  <circle cx="960" cy="470" r="14" fill="#FCD34D"/>
+  <circle cx="960" cy="550" r="14" fill="#FCD34D"/>
+  <rect x="995" y="376" width="340" height="24" rx="12" fill="#FDE68A"/>
+  <rect x="995" y="456" width="370" height="24" rx="12" fill="#FDE68A" fill-opacity="0.85"/>
+  <rect x="995" y="536" width="320" height="24" rx="12" fill="#FDE68A" fill-opacity="0.7"/>
+  <text x="205" y="655" fill="#94ADC9" font-family="Segoe UI, Arial, sans-serif" font-size="26">Check the maker, the assembler, and the certification trail separately.</text>
+  <text x="945" y="655" fill="#94ADC9" font-family="Segoe UI, Arial, sans-serif" font-size="26">Prefer products whose story stays consistent after launch.</text>
+</svg>
