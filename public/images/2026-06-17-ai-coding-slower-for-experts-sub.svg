@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#08111D"/>
+  <rect x="80" y="70" width="1440" height="760" rx="34" fill="#0C1829" stroke="#243B57" stroke-width="2"/>
+  <text x="130" y="165" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Where the slowdown happens</text>
+  <rect x="130" y="230" width="280" height="420" rx="26" fill="#11213A"/>
+  <rect x="470" y="230" width="280" height="420" rx="26" fill="#11213A"/>
+  <rect x="810" y="230" width="280" height="420" rx="26" fill="#11213A"/>
+  <rect x="1150" y="230" width="280" height="420" rx="26" fill="#11213A"/>
+  <text x="184" y="300" fill="#8FD3FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Prompt</text>
+  <text x="512" y="300" fill="#8FD3FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Draft</text>
+  <text x="848" y="300" fill="#8FD3FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Review</text>
+  <text x="1180" y="300" fill="#8FD3FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Rework</text>
+  <rect x="180" y="350" width="180" height="18" rx="9" fill="#5EEAD4"/>
+  <rect x="180" y="390" width="150" height="18" rx="9" fill="#5EEAD4" fill-opacity="0.7"/>
+  <rect x="520" y="350" width="180" height="18" rx="9" fill="#FCD34D"/>
+  <rect x="520" y="390" width="150" height="18" rx="9" fill="#FCD34D" fill-opacity="0.7"/>
+  <rect x="860" y="350" width="180" height="18" rx="9" fill="#FCA5A5"/>
+  <rect x="860" y="390" width="180" height="18" rx="9" fill="#FCA5A5" fill-opacity="0.8"/>
+  <rect x="860" y="430" width="140" height="18" rx="9" fill="#FCA5A5" fill-opacity="0.55"/>
+  <rect x="1200" y="350" width="180" height="18" rx="9" fill="#C4B5FD"/>
+  <rect x="1200" y="390" width="180" height="18" rx="9" fill="#C4B5FD" fill-opacity="0.8"/>
+  <rect x="1200" y="430" width="150" height="18" rx="9" fill="#C4B5FD" fill-opacity="0.55"/>
+  <path d="M410 440H470" stroke="#7AA2C8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M750 440H810" stroke="#7AA2C8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1090 440H1150" stroke="#7AA2C8" stroke-width="10" stroke-linecap="round"/>
+  <text x="132" y="735" fill="#99AFCB" font-family="Segoe UI, Arial, sans-serif" font-size="27">The hidden cost is rarely typing. It is inspection, trust, and architectural correction.</text>
+</svg>

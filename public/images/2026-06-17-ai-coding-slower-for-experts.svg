@@ -1,0 +1,33 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#07111F"/>
+  <rect x="60" y="60" width="1480" height="780" rx="36" fill="url(#bg)"/>
+  <circle cx="275" cy="220" r="110" fill="#132238"/>
+  <circle cx="1320" cy="180" r="84" fill="#10263C"/>
+  <circle cx="1260" cy="690" r="120" fill="#0F1E31"/>
+  <rect x="140" y="150" width="530" height="520" rx="28" fill="#0B1525" stroke="#284566" stroke-width="2"/>
+  <rect x="194" y="220" width="320" height="22" rx="11" fill="#5EEAD4" fill-opacity="0.9"/>
+  <rect x="194" y="270" width="390" height="18" rx="9" fill="#7DD3FC" fill-opacity="0.8"/>
+  <rect x="194" y="310" width="350" height="18" rx="9" fill="#7DD3FC" fill-opacity="0.5"/>
+  <rect x="194" y="368" width="410" height="180" rx="20" fill="#111F33"/>
+  <path d="M240 472C283 422 335 398 394 398C469 398 521 436 560 510" stroke="#F59E0B" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="394" cy="398" r="18" fill="#FDE68A"/>
+  <circle cx="560" cy="510" r="18" fill="#FCA5A5"/>
+  <rect x="770" y="170" width="690" height="220" rx="28" fill="#0B1525" stroke="#284566" stroke-width="2"/>
+  <rect x="820" y="226" width="210" height="84" rx="18" fill="#17283E"/>
+  <rect x="1090" y="226" width="210" height="84" rx="18" fill="#17283E"/>
+  <rect x="955" y="226" width="210" height="84" rx="18" fill="#17283E"/>
+  <path d="M1030 268H1090" stroke="#5EEAD4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1165 268H1225" stroke="#5EEAD4" stroke-width="10" stroke-linecap="round"/>
+  <rect x="770" y="440" width="690" height="250" rx="28" fill="#0B1525" stroke="#284566" stroke-width="2"/>
+  <rect x="822" y="500" width="560" height="20" rx="10" fill="#93C5FD" fill-opacity="0.9"/>
+  <rect x="822" y="544" width="600" height="20" rx="10" fill="#93C5FD" fill-opacity="0.55"/>
+  <rect x="822" y="588" width="520" height="20" rx="10" fill="#93C5FD" fill-opacity="0.35"/>
+  <text x="190" y="760" fill="#E5F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">AI Coding Tools vs Expert Flow</text>
+  <text x="192" y="815" fill="#8FB3D9" font-family="Segoe UI, Arial, sans-serif" font-size="28">Fast drafts can still create slow reviews and expensive verification loops.</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1500" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#091525"/>
+    </linearGradient>
+  </defs>
+</svg>

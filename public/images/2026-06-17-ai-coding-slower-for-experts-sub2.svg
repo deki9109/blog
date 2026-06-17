@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#09121E"/>
+  <rect x="70" y="70" width="1460" height="760" rx="36" fill="#0C1829" stroke="#24415F" stroke-width="2"/>
+  <text x="120" y="155" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Two practical rules for safer AI coding</text>
+  <rect x="130" y="235" width="610" height="470" rx="28" fill="#11213A"/>
+  <rect x="860" y="235" width="610" height="470" rx="28" fill="#11213A"/>
+  <text x="180" y="305" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Team workflow</text>
+  <text x="910" y="305" fill="#FCD34D" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Personal workflow</text>
+  <circle cx="205" cy="380" r="14" fill="#5EEAD4"/>
+  <circle cx="205" cy="455" r="14" fill="#5EEAD4"/>
+  <circle cx="205" cy="530" r="14" fill="#5EEAD4"/>
+  <rect x="240" y="366" width="400" height="24" rx="12" fill="#B7F7EE"/>
+  <rect x="240" y="441" width="360" height="24" rx="12" fill="#B7F7EE" fill-opacity="0.85"/>
+  <rect x="240" y="516" width="430" height="24" rx="12" fill="#B7F7EE" fill-opacity="0.7"/>
+  <circle cx="935" cy="380" r="14" fill="#FCD34D"/>
+  <circle cx="935" cy="455" r="14" fill="#FCD34D"/>
+  <circle cx="935" cy="530" r="14" fill="#FCD34D"/>
+  <rect x="970" y="366" width="400" height="24" rx="12" fill="#FDE68A"/>
+  <rect x="970" y="441" width="360" height="24" rx="12" fill="#FDE68A" fill-opacity="0.85"/>
+  <rect x="970" y="516" width="410" height="24" rx="12" fill="#FDE68A" fill-opacity="0.7"/>
+  <text x="180" y="645" fill="#8FAECC" font-family="Segoe UI, Arial, sans-serif" font-size="26">Track review time, rollback rate, and follow-up commits.</text>
+  <text x="910" y="645" fill="#8FAECC" font-family="Segoe UI, Arial, sans-serif" font-size="26">Use AI for narrow tasks you can still explain in your own words.</text>
+</svg>
