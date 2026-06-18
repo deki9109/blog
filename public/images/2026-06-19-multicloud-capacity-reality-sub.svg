@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#08111B"/>
+  <rect x="80" y="70" width="1440" height="760" rx="36" fill="#0D1828" stroke="#29415B" stroke-width="2"/>
+  <text x="130" y="155" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Where multi-cloud friction actually lives</text>
+  <rect x="140" y="250" width="280" height="360" rx="28" fill="#132238"/>
+  <rect x="480" y="250" width="280" height="360" rx="28" fill="#132238"/>
+  <rect x="820" y="250" width="280" height="360" rx="28" fill="#132238"/>
+  <rect x="1160" y="250" width="280" height="360" rx="28" fill="#132238"/>
+  <text x="194" y="325" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Capacity</text>
+  <text x="545" y="325" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Compliance</text>
+  <text x="885" y="325" fill="#FCD34D" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Migration</text>
+  <text x="1230" y="325" fill="#FCA5A5" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Runbooks</text>
+  <rect x="190" y="385" width="170" height="18" rx="9" fill="#5EEAD4"/>
+  <rect x="190" y="435" width="140" height="18" rx="9" fill="#5EEAD4" fill-opacity="0.7"/>
+  <rect x="530" y="385" width="170" height="18" rx="9" fill="#7DD3FC"/>
+  <rect x="530" y="435" width="150" height="18" rx="9" fill="#7DD3FC" fill-opacity="0.7"/>
+  <rect x="870" y="385" width="170" height="18" rx="9" fill="#FCD34D"/>
+  <rect x="870" y="435" width="150" height="18" rx="9" fill="#FCD34D" fill-opacity="0.7"/>
+  <rect x="1210" y="385" width="170" height="18" rx="9" fill="#FCA5A5"/>
+  <rect x="1210" y="435" width="140" height="18" rx="9" fill="#FCA5A5" fill-opacity="0.7"/>
+  <path d="M420 430H480" stroke="#91A9C6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M760 430H820" stroke="#91A9C6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1100 430H1160" stroke="#91A9C6" stroke-width="10" stroke-linecap="round"/>
+  <text x="130" y="720" fill="#97AEC7" font-family="Segoe UI, Arial, sans-serif" font-size="26">Buying backup compute is easy compared with aligning security, tooling, and emergency procedures.</text>
+</svg>

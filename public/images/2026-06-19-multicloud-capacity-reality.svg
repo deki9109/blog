@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#09111C"/>
+  <rect x="60" y="60" width="1480" height="780" rx="36" fill="url(#bg)"/>
+  <rect x="160" y="220" width="340" height="220" rx="30" fill="#11213A"/>
+  <rect x="630" y="160" width="340" height="220" rx="30" fill="#11213A"/>
+  <rect x="1100" y="220" width="340" height="220" rx="30" fill="#11213A"/>
+  <text x="255" y="330" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Azure</text>
+  <text x="725" y="270" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">GitHub Load</text>
+  <text x="1208" y="330" fill="#FCD34D" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">AWS / OCI</text>
+  <path d="M500 330H630" stroke="#8FB2D7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M970 330H1100" stroke="#8FB2D7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M970 255C1050 215 1130 190 1210 190" stroke="#FB7185" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="800" cy="585" r="140" fill="#132238"/>
+  <circle cx="800" cy="585" r="94" fill="#0F1D31"/>
+  <path d="M800 585L845 535" stroke="#FDE68A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M800 585V500" stroke="#FDE68A" stroke-width="14" stroke-linecap="round"/>
+  <text x="190" y="760" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">Multi-cloud is becoming the emergency exit</text>
+  <text x="192" y="812" fill="#96AEC8" font-family="Segoe UI, Arial, sans-serif" font-size="27">When AI demand spikes, rival clouds can turn into temporary pressure valves.</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1500" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1627"/>
+      <stop offset="1" stop-color="#091321"/>
+    </linearGradient>
+  </defs>
+</svg>
