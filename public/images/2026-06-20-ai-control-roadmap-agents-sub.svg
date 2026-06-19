@@ -1,0 +1,51 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1536" height="1024" fill="#07101C"/>
+  <rect x="48" y="48" width="1440" height="928" rx="32" fill="url(#bg2)"/>
+  <text x="110" y="126" fill="#EAF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Layered Defenses for Autonomous Agents</text>
+  <text x="110" y="176" fill="#92B4D8" font-family="Segoe UI, Arial, sans-serif" font-size="28">The goal is not just a better model, but a system that can inspect and interrupt risky behavior.</text>
+  <g opacity="0.98">
+    <rect x="120" y="280" width="300" height="460" rx="28" fill="#0E1830" stroke="#6AD6FF" stroke-width="2"/>
+    <rect x="138" y="300" width="264" height="138" rx="20" fill="#0C1F3C"/>
+    <rect x="166" y="336" width="210" height="16" rx="8" fill="#7DD3FC"/>
+    <rect x="166" y="372" width="184" height="16" rx="8" fill="#7DD3FC" fill-opacity="0.7"/>
+    <circle cx="270" cy="538" r="72" fill="#10213A" stroke="#B8F8FF" stroke-width="2"/>
+    <path d="M270 492L292 534H338L300 560L314 606L270 582L226 606L240 560L202 534H248L270 492Z" fill="#D7FCFF"/>
+    <text x="205" y="684" fill="#E6FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Base Model</text>
+  </g>
+  <g opacity="0.98">
+    <rect x="618" y="240" width="300" height="540" rx="28" fill="#121B33" stroke="#83C5FF" stroke-width="2"/>
+    <rect x="636" y="262" width="264" height="160" rx="20" fill="#0C1C34"/>
+    <path d="M684 332H852" stroke="#5EEAD4" stroke-width="16" stroke-linecap="round"/>
+    <path d="M684 372H816" stroke="#5EEAD4" stroke-width="16" stroke-linecap="round" opacity="0.7"/>
+    <rect x="678" y="478" width="180" height="180" rx="28" fill="#111F39"/>
+    <path d="M720 566L756 604L820 536" stroke="#9EF9EA" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="680" y="718" fill="#EAF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Supervisor</text>
+  </g>
+  <g opacity="0.98">
+    <rect x="1116" y="280" width="300" height="460" rx="28" fill="#1A1232" stroke="#AE8EFF" stroke-width="2"/>
+    <rect x="1134" y="300" width="264" height="138" rx="20" fill="#20153C"/>
+    <rect x="1166" y="338" width="206" height="16" rx="8" fill="#C4B5FD"/>
+    <rect x="1166" y="374" width="176" height="16" rx="8" fill="#C4B5FD" fill-opacity="0.72"/>
+    <circle cx="1266" cy="538" r="72" fill="#241A41" stroke="#E9DBFF" stroke-width="2"/>
+    <path d="M1266 492L1294 520L1266 548L1238 520L1266 492Z" fill="#F4EEFF"/>
+    <path d="M1266 468V608" stroke="#F4EEFF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1198 538H1334" stroke="#F4EEFF" stroke-width="8" stroke-linecap="round"/>
+    <text x="1214" y="684" fill="#F8F4FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Intervention</text>
+  </g>
+  <path d="M420 514H618" stroke="url(#link1)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M918 514H1116" stroke="url(#link2)" stroke-width="12" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="bg2" x1="110" y1="90" x2="1430" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071323"/>
+      <stop offset="1" stop-color="#08101B"/>
+    </linearGradient>
+    <linearGradient id="link1" x1="420" y1="514" x2="618" y2="514" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="link2" x1="918" y1="514" x2="1116" y2="514" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+</svg>

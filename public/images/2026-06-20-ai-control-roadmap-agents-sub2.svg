@@ -1,0 +1,46 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1536" height="1024" fill="#07101A"/>
+  <rect x="54" y="54" width="1428" height="916" rx="32" fill="url(#bg3)"/>
+  <text x="112" y="130" fill="#EAF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Three Practical Rules for AI Control</text>
+  <text x="112" y="180" fill="#90B4D7" font-family="Segoe UI, Arial, sans-serif" font-size="28">Smaller permissions, human checkpoints, and complete logs matter more as automation gains reach.</text>
+  <rect x="140" y="270" width="1256" height="570" rx="30" fill="#0D182B" stroke="#2B4560" stroke-width="2"/>
+  <g>
+    <circle cx="252" cy="390" r="54" fill="#102848"/>
+    <circle cx="252" cy="390" r="40" fill="#5EEAD4" fill-opacity="0.18" stroke="#8BF6EA" stroke-width="2"/>
+    <text x="238" y="403" fill="#D6FFFA" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">1</text>
+    <rect x="336" y="364" width="860" height="52" rx="26" fill="url(#rule1)"/>
+  </g>
+  <g>
+    <circle cx="252" cy="545" r="54" fill="#132443"/>
+    <circle cx="252" cy="545" r="40" fill="#7DD3FC" fill-opacity="0.16" stroke="#B6EAFF" stroke-width="2"/>
+    <text x="236" y="558" fill="#E0F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">2</text>
+    <rect x="336" y="519" width="820" height="52" rx="26" fill="url(#rule2)"/>
+  </g>
+  <g>
+    <circle cx="252" cy="700" r="54" fill="#231840"/>
+    <circle cx="252" cy="700" r="40" fill="#C4B5FD" fill-opacity="0.16" stroke="#E6DEFF" stroke-width="2"/>
+    <text x="236" y="713" fill="#F1EBFF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">3</text>
+    <rect x="336" y="674" width="910" height="52" rx="26" fill="url(#rule3)"/>
+  </g>
+  <text x="1258" y="402" fill="#DDFBFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Limit Scope</text>
+  <text x="1218" y="557" fill="#E8F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Review Actions</text>
+  <text x="1206" y="712" fill="#F2EDFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Keep Traces</text>
+  <defs>
+    <linearGradient id="bg3" x1="110" y1="100" x2="1420" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071323"/>
+      <stop offset="1" stop-color="#08111C"/>
+    </linearGradient>
+    <linearGradient id="rule1" x1="336" y1="364" x2="1196" y2="416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12314F"/>
+      <stop offset="1" stop-color="#0E2037"/>
+    </linearGradient>
+    <linearGradient id="rule2" x1="336" y1="519" x2="1156" y2="571" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#112B48"/>
+      <stop offset="1" stop-color="#0D1D33"/>
+    </linearGradient>
+    <linearGradient id="rule3" x1="336" y1="674" x2="1246" y2="726" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20183B"/>
+      <stop offset="1" stop-color="#121B33"/>
+    </linearGradient>
+  </defs>
+</svg>

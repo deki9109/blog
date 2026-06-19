@@ -1,0 +1,84 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1536" height="1024" fill="#060C17"/>
+  <rect x="40" y="40" width="1456" height="944" rx="32" fill="url(#bg1)"/>
+  <ellipse cx="768" cy="210" rx="420" ry="120" fill="#1A3A72" fill-opacity="0.28"/>
+  <ellipse cx="768" cy="780" rx="560" ry="160" fill="#111F39" fill-opacity="0.7"/>
+  <g filter="url(#blur1)">
+    <circle cx="768" cy="500" r="182" fill="#122848"/>
+  </g>
+  <g>
+    <circle cx="768" cy="500" r="156" fill="url(#core)" stroke="#87E6FF" stroke-width="3"/>
+    <circle cx="768" cy="500" r="108" fill="#081321" stroke="#7B61FF" stroke-opacity="0.8" stroke-width="2"/>
+    <circle cx="768" cy="500" r="64" fill="#0B1B30" stroke="#5EEAD4" stroke-width="2"/>
+    <path d="M768 412L792 474H858L806 514L826 580L768 542L710 580L730 514L678 474H744L768 412Z" fill="#C7F4FF" fill-opacity="0.9"/>
+  </g>
+  <g opacity="0.95">
+    <rect x="215" y="320" width="244" height="152" rx="24" fill="#0E1830" stroke="#70B7FF" stroke-width="2"/>
+    <rect x="225" y="332" width="224" height="132" rx="18" fill="url(#panelBlue)"/>
+    <circle cx="337" cy="398" r="34" fill="#0E223E" stroke="#93DDFF" stroke-width="2"/>
+    <path d="M337 382C347 382 355 390 355 400C355 410 347 418 337 418C327 418 319 410 319 400C319 390 327 382 337 382Z" fill="#B7F7EE"/>
+    <text x="280" y="445" fill="#DDF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Agent</text>
+  </g>
+  <g opacity="0.95">
+    <rect x="1077" y="320" width="244" height="152" rx="24" fill="#1A0F2E" stroke="#A88BFF" stroke-width="2"/>
+    <rect x="1087" y="332" width="224" height="132" rx="18" fill="url(#panelPurple)"/>
+    <path d="M1188 378L1210 400L1188 422L1166 400L1188 378Z" fill="#E9DBFF"/>
+    <path d="M1188 360V440" stroke="#E9DBFF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1148 400H1228" stroke="#E9DBFF" stroke-width="5" stroke-linecap="round"/>
+    <text x="1128" y="445" fill="#F4EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Monitor</text>
+  </g>
+  <g opacity="0.95">
+    <rect x="643" y="704" width="250" height="160" rx="26" fill="#101C33" stroke="#63C9FF" stroke-width="2"/>
+    <rect x="657" y="718" width="222" height="132" rx="18" fill="#0C1527"/>
+    <path d="M700 782L740 820L826 734" stroke="#5EEAD4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="715" y="817" fill="#DDFBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Approval Gate</text>
+  </g>
+  <path d="M459 396C575 424 640 446 648 468" stroke="url(#beam1)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1077 396C961 424 896 446 888 468" stroke="url(#beam2)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M768 656V704" stroke="url(#beam3)" stroke-width="12" stroke-linecap="round"/>
+  <g opacity="0.55">
+    <circle cx="408" cy="220" r="3" fill="#7DD3FC"/>
+    <circle cx="1128" cy="220" r="3" fill="#C4B5FD"/>
+    <circle cx="1300" cy="640" r="4" fill="#5EEAD4"/>
+    <circle cx="268" cy="700" r="4" fill="#5EEAD4"/>
+    <circle cx="980" cy="170" r="4" fill="#7DD3FC"/>
+    <circle cx="560" cy="160" r="4" fill="#7DD3FC"/>
+  </g>
+  <text x="120" y="116" fill="#E8F4FF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">AI Control Requires More Than Alignment</text>
+  <text x="120" y="168" fill="#95B6DA" font-family="Segoe UI, Arial, sans-serif" font-size="28">Autonomous agents need monitors, gates, and logs that can intervene before damage spreads.</text>
+  <defs>
+    <linearGradient id="bg1" x1="120" y1="80" x2="1420" y2="940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081321"/>
+      <stop offset="0.55" stop-color="#091526"/>
+      <stop offset="1" stop-color="#050C17"/>
+    </linearGradient>
+    <linearGradient id="core" x1="650" y1="358" x2="904" y2="642" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173A66"/>
+      <stop offset="0.6" stop-color="#102546"/>
+      <stop offset="1" stop-color="#0B1930"/>
+    </linearGradient>
+    <linearGradient id="panelBlue" x1="225" y1="332" x2="449" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10284A"/>
+      <stop offset="1" stop-color="#0B1830"/>
+    </linearGradient>
+    <linearGradient id="panelPurple" x1="1087" y1="332" x2="1311" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A174D"/>
+      <stop offset="1" stop-color="#140F2A"/>
+    </linearGradient>
+    <linearGradient id="beam1" x1="459" y1="396" x2="648" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <linearGradient id="beam2" x1="1077" y1="396" x2="888" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="beam3" x1="768" y1="656" x2="768" y2="704" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE9FD"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <filter id="blur1" x="506" y="238" width="524" height="524" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+</svg>
