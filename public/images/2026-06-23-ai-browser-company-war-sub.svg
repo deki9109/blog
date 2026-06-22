@@ -1,0 +1,35 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1536" height="1024" fill="#07101A"/>
+  <rect x="50" y="50" width="1436" height="924" rx="34" fill="url(#bg2)"/>
+  <text x="112" y="132" fill="#ECF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Why AI Companies Want the Browser Layer</text>
+  <text x="112" y="182" fill="#95B5D7" font-family="Segoe UI, Arial, sans-serif" font-size="28">Tabs, context, accounts, and actions all become easier to guide when the assistant sits inside the browser.</text>
+  <rect x="120" y="270" width="320" height="500" rx="28" fill="#0E1830" stroke="#69D7FF" stroke-width="2"/>
+  <rect x="608" y="230" width="320" height="580" rx="28" fill="#111C34" stroke="#8BC7FF" stroke-width="2"/>
+  <rect x="1096" y="270" width="320" height="500" rx="28" fill="#191231" stroke="#B090FF" stroke-width="2"/>
+  <text x="218" y="338" fill="#BDF8FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Search</text>
+  <text x="690" y="300" fill="#E3F5FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Browser Context</text>
+  <text x="1186" y="338" fill="#F0E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Actions</text>
+  <rect x="176" y="394" width="208" height="18" rx="9" fill="#67E8F9"/>
+  <rect x="176" y="436" width="164" height="18" rx="9" fill="#67E8F9" fill-opacity="0.75"/>
+  <rect x="664" y="382" width="208" height="18" rx="9" fill="#BFDBFE"/>
+  <rect x="664" y="424" width="228" height="18" rx="9" fill="#BFDBFE" fill-opacity="0.78"/>
+  <rect x="664" y="466" width="188" height="18" rx="9" fill="#BFDBFE" fill-opacity="0.56"/>
+  <rect x="1152" y="394" width="208" height="18" rx="9" fill="#C4B5FD"/>
+  <rect x="1152" y="436" width="176" height="18" rx="9" fill="#C4B5FD" fill-opacity="0.75"/>
+  <path d="M440 510H608" stroke="url(#l1)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M928 510H1096" stroke="url(#l2)" stroke-width="10" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="bg2" x1="110" y1="100" x2="1420" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071423"/>
+      <stop offset="1" stop-color="#08111B"/>
+    </linearGradient>
+    <linearGradient id="l1" x1="440" y1="510" x2="608" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+    <linearGradient id="l2" x1="928" y1="510" x2="1096" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93C5FD"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+</svg>

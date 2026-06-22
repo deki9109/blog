@@ -1,0 +1,35 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1536" height="1024" fill="#06101B"/>
+  <rect x="44" y="44" width="1448" height="936" rx="34" fill="url(#bg)"/>
+  <ellipse cx="768" cy="820" rx="540" ry="120" fill="#0D1C31" fill-opacity="0.85"/>
+  <rect x="250" y="196" width="1036" height="560" rx="34" fill="#0D182B" stroke="#325372" stroke-width="2"/>
+  <rect x="285" y="236" width="966" height="58" rx="18" fill="#12233D"/>
+  <circle cx="328" cy="265" r="9" fill="#FB7185"/>
+  <circle cx="356" cy="265" r="9" fill="#FBBF24"/>
+  <circle cx="384" cy="265" r="9" fill="#5EEAD4"/>
+  <rect x="316" y="342" width="376" height="320" rx="24" fill="#101E36"/>
+  <rect x="724" y="342" width="494" height="146" rx="24" fill="#101E36"/>
+  <rect x="724" y="516" width="240" height="146" rx="24" fill="#101E36"/>
+  <rect x="978" y="516" width="240" height="146" rx="24" fill="#101E36"/>
+  <circle cx="768" cy="498" r="96" fill="url(#core)" stroke="#8BE9FD" stroke-width="3"/>
+  <path d="M768 434L788 478H836L796 510L810 558L768 532L726 558L740 510L700 478H748L768 434Z" fill="#E3FBFF"/>
+  <path d="M692 486C616 456 552 444 476 446" stroke="#68E8F9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M844 484C924 446 992 430 1088 424" stroke="#A78BFA" stroke-width="6" stroke-linecap="round"/>
+  <path d="M786 584C820 640 850 672 900 712" stroke="#5EEAD4" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="470" cy="446" r="10" fill="#67E8F9"/>
+  <circle cx="1088" cy="424" r="10" fill="#C4B5FD"/>
+  <circle cx="900" cy="712" r="10" fill="#5EEAD4"/>
+  <text x="120" y="134" fill="#EAF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">The Browser Is Becoming the New AI Battleground</text>
+  <text x="120" y="186" fill="#96B6D8" font-family="Segoe UI, Arial, sans-serif" font-size="28">Search is not enough anymore. The winner wants the first screen, the tabs, and the workflow.</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="84" x2="1420" y2="940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071322"/>
+      <stop offset="1" stop-color="#08111A"/>
+    </linearGradient>
+    <linearGradient id="core" x1="696" y1="410" x2="840" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#0F2745"/>
+    </linearGradient>
+  </defs>
+</svg>
